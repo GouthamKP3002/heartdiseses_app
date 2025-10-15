@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192387553653",
+    "project_id": "heartdisesesapp",
+    "storage_bucket": "heartdisesesapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192387553653:android:25c420ee543d65f9785b3c",
+        "android_client_info": {
+          "package_name": "com.example.heart_diseses_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ6jGBveCx77leJ1ZtS0rj5W5MGvYN9Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
