@@ -1,0 +1,2 @@
+C:/Users/GOUTHAM/Documents/GitHub/heartdiseses_app/android/app/.cxx/Debug/71o3z645/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/GOUTHAM/Documents/GitHub/heartdiseses_app/android/app/.cxx/Debug/71o3z645/armeabi-v7a/CMakeFiles/rebuild_cache.dir
